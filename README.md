@@ -1,4 +1,4 @@
-### Hi there 👋, Nguyen Thanh Chuong
+### Hi there 👋, 
 ####  Programming Enthusiast
 ![ Programming Enthusiast](https://pbs.twimg.com/profile_banners/1440654519235334147/1652362153/1500x500)
 
