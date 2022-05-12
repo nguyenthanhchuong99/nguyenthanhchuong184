@@ -1,4 +1,4 @@
-![ Programming Enthusiast](https://pbs.twimg.com/profile_banners/1440654519235334147/1652362153/1080x360)
+![ Programming Enthusiast](https://github.com/nguyenthanhchuong184/nguyenthanhchuong184/blob/main/Capture1_auto_x2.jpg)
 
 ### Hi there 👋, I'm Nguyen Thanh Chuong
 I'm Chuong from Viet Nam, and I'm on my way to becoming a Backend Developer. I really enjoy learning languages and frameworks like PHP and Laravel.
