@@ -1,10 +1,12 @@
-### Hi there 👋, Nguyen Thanh Chuong
-####  Programming Enthusiast
 ![ Programming Enthusiast](https://pbs.twimg.com/profile_banners/1440654519235334147/1652362153/1080x360)
 
+### Hi there 👋, I'm Nguyen Thanh Chuong
 I'm Chuong from Viet Nam, and I'm on my way to becoming a Backend Developer. I really enjoy learning languages and frameworks like PHP and Laravel.
 
-Skills: PHP / LARAVEL / JS / HTML / CSS / RUBY / RUBY ON RAILS
+##Skills and Experience
+* ❤ PHP, Ruby
+* 💻 Laravel, Ruby on Rails
+* ✏ HTML, CSS, JS
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning PHP, Laravel, Ruby, Ruby on Rails 
