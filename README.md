@@ -16,6 +16,11 @@ I'm Chuong from Viet Nam, and I'm on my way to becoming a Backend Developer. I r
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenthanhchuong184)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenthanhchuong184&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenthanhchuong184&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenthanhchuong184&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenthanhchuong184&show_icons=true&theme=radical)
+
 
 
 
