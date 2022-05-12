@@ -1,5 +1,3 @@
-![ Programming Enthusiast](https://github.com/nguyenthanhchuong184/nguyenthanhchuong184/blob/main/Capture1_auto_x2.jpg)
-
 # Hi there 👋
 I'm Chuong from Viet Nam, and I'm on my way to becoming a Backend Developer. I really enjoy learning languages and frameworks like PHP and Laravel.
 
