@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm Chuong from VietNam, and I'm on my way to become a Backend Developer. I really enjoy learning languages and frameworks like PHP and Laravel.
+I'm Khuong from VietNam, and I'm on my way to become a Backend Developer. I really enjoy learning languages and frameworks like PHP and Laravel.
 
 ## Skills and Experience
 * ❤ PHP, Ruby
